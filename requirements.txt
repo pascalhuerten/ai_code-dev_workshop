@@ -1,0 +1,9 @@
+requests
+langchain
+langchain_mistralai
+langchain_openai
+openai
+InstructorEmbedding
+torch
+sentence_transformers
+chromadb
