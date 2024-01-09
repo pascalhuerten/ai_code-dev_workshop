@@ -7,3 +7,4 @@ InstructorEmbedding
 torch
 sentence_transformers
 chromadb
+ipykernel
