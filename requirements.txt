@@ -2,6 +2,7 @@ requests
 langchain
 langchain_mistralai
 langchain_openai
+text_generation
 openai
 InstructorEmbedding
 torch
